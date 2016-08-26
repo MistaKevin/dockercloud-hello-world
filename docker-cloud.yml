@@ -1,4 +1,4 @@
-helloworld:
-  image: dockercloud/hello-world
+dockercloud-hello-world:
+  image: mistakevin/dockercloud-hello-world
   ports:
     - "80:80"

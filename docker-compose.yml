@@ -1,4 +1,4 @@
-helloworld:
+dockercloud-hello-world:
   build: .
   ports:
     - "80:80"
